@@ -16,7 +16,7 @@ Contar o número de colônias de bactérias em três imagens e representar cada 
 - Redução de ruído com filtro Gaussiano  
 - Binarização adaptativa  
 - Operações morfológicas para limpar ruídos  
-- Contagem de componentes com `cv2.connectedComponents`  
+- Contagem de componentes  
 - Colorização automática com tons HSV  
 
 ---
