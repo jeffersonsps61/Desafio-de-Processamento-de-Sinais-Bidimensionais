@@ -13,11 +13,10 @@ Contar o número de colônias de bactérias em três imagens e representar cada 
 
 **Principais etapas:**
 - Conversão para tons de cinza  
-- Redução de ruído com filtro Gaussiano  
-- Binarização adaptativa  
-- Operações morfológicas para limpar ruídos  
+- Redução de ruído com filtros de Média, Mediana e Gaussiano  
+- Binarização com limiares 
 - Contagem de componentes  
-- Colorização automática com tons HSV  
+- Colorização automática com tons BGR  
 
 ---
 
